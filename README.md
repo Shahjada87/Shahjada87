@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on ** [Covid-19 Tracker] API Project. 😷 **
 
-- 🌱 I’m currently learning ** Full Stack Java Development. 👨‍💻 **
+- 🌱 I’m currently learning ** Full Stack Java Development. 🌱 **
 
-- 👯 I’m looking to collaborate on ** OpenSource Projects. 🤝 **
+- 👯 I’m looking to collaborate on ** OpenSource Projects. 👯 **
 
-- 👨‍💻 All of my projects will be available at ** Upcoming Portfolio. ✨ **
+- 👨‍💻 All of my projects will be available at ** Upcoming Portfolio. 👨‍💻 **
 
-- 📫 How to reach me ** shahjada8007@gmail.com 🔗 **
+- 📫 How to reach me ** shahjada8007@gmail.com 📫 **
 
-- ⚡ Fun fact ** All my leasure time is wasted on GROWW APP & ZERODHA SITE. 😋 **
+- 😋 Fun fact ** All my leasure time is wasted on GROWW APP & ZERODHA SITE. 😋 **
 
 <br>
 
