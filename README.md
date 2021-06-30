@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ** shahjada8007@gmail.com 📫 **
 
-- 😋 Fun fact ** All my leasure time is wasted on GROWW APP & ZERODHA SITE. 😋 **
+- 😋 Fun fact ** GROWING USING GROWW & ZERODHA. 😋 **
 
 <br>
 
