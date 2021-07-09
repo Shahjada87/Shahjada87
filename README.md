@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ** shahjada8007@gmail.com 📫 **
 
-- 😋 Fun fact ** GROWING USING GROWW & ZERODHA. 😋 **
+- 😋 Fun fact ** Building an empire through INVESTMENT. 😋 **
 
 <br>
 
