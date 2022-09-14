@@ -1,22 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahjada E Saqualain</h1>
-<h3 align="center">I'm a passionate Full Stack MERN & JAVA Developer from India.</h3>
+<h3 align="center">I'm a passionate Data Analyst & Big-Data Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ** [Covid-19 Tracker] API Project. 😷 **
-
-- 🌱 I’m currently learning ** Full Stack Java Development. 🌱 **
+- 🔭 I’m currently learning Google Data Analytics From Coursera. 😷 **
 
 - 👯 I’m looking to collaborate on ** OpenSource Projects. 👯 **
 
-- 👨‍💻 All of my projects will be available at ** Upcoming Portfolio. 👨‍💻 **
+- 👨‍💻 All of my projects will be available here in githb. 👨‍💻 **
 
-- 📫 How to reach me ** shahjada8007@gmail.com 📫 **
+- 📫 Reach me ** shahjada8007@gmail.com 📫 **
 
-- 😋 Fun fact ** Building an empire through INVESTMENT. 😋 **
+- 😋 Hobbies - ** Investment, Travelling, Upgrading My Skillset . 😋 **
 
 <br>
 
