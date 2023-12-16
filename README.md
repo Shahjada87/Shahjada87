@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning Google Data Analytics From Coursera. 😷 **
+- 🔭 I’m currently working as an Associate Software Engineer @ Mphasis. **
 
 - 👯 I’m looking to collaborate on ** OpenSource Projects. 👯 **
 
-- 👨‍💻 All of my projects will be available here in githb. 👨‍💻 **
+- 👨‍💻 All of my projects will be available here in the github. 👨‍💻 **
 
 - 📫 Reach me ** shahjada8007@gmail.com 📫 **
 
-- 😋 Hobbies - ** Investment, Travelling, Upgrading My Skillset . 😋 **
+- 😋 Hobbies - ** Investment, Travelling. 😋 **
 
 <br>
 
