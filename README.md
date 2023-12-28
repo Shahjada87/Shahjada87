@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as an Associate Software Engineer @ Mphasis. **
+- 🔭 I’m currently working as an Associate Software Engineer. **
 
 - 👯 I’m looking to collaborate on ** OpenSource Projects. 👯 **
 
