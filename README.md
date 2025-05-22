@@ -38,8 +38,6 @@
 ## ❤ Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shahjada-e-saqualain-8700s/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/shahjada0807"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_shahjada_786/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/shahjada-emir-saqualain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
