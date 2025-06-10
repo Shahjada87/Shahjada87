@@ -30,13 +30,6 @@ support data-driven outcomes.</h4>
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-  <br align="center">
-    <a align="center" href="https://github.com/Shahjada87/github-readme-stats"><img alt="Shahjada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shahjada87&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
 ## ❤ Connect with me:
 <p align="left">
 
