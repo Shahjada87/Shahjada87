@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Shahjada Emir Saqualain</h1>
-<h4 align="center">I am a PL-300 Certified Data Analyst with a strong foundation in data analysis, business intelligence, and
+<p align="center">I am a PL-300 Certified Data Analyst with a strong foundation in data analysis, business intelligence, and
 performance reporting. I am proficient in SQL, Power BI, Python, and advanced Excel, with a good understanding
 of designing dynamic dashboards, developing KPI tracking systems, and implementing predictive models to
-support data-driven outcomes.</h4>
+support data-driven outcomes.</p>
 
 
 ## 🙋‍♂️ About Me
